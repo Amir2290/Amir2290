@@ -4,7 +4,7 @@
 
 Started as a backend engineer. Still write code.
 
-Toronto, Canada | [LinkedIn](https://linkedin.com/in/asohel))) | [aot.amirsohel@gmail.com](mailto:aot.amirsohel@gmail.com)
+Toronto, Canada | [LinkedIn](https://linkedin.com/in/asohel) | [aot.amirsohel@gmail.com](mailto:aot.amirsohel@gmail.com)
 
 ---
 
